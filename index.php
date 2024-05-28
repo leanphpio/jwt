@@ -6,6 +6,7 @@ use leanphp\jwt\LeanJWT;
 
 // Initialize the JWT handler with a secret key
 $secret = 'your_secret_key';
+
 $jwt = new LeanJWT($secret);
 
 // Example payload
