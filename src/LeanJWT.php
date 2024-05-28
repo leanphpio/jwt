@@ -1,6 +1,6 @@
 <?php
 
-namespace leanphpio\jwt;
+namespace LeanPHP\JWT;
 
 /**
  * LeanJWT class for handling JWT operations.

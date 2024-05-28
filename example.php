@@ -1,8 +1,12 @@
 <?php
 
-require 'LeanJWT.php';
+// without composer: require 'LeanJWT.php';
 
-use leanphpio\jwt\LeanJWT;
+// with composer
+require 'vendor/autoload.php';
+
+use LeanPHP\JWT\LeanJWT;
+
 
 // Initialize the JWT handler with a secret key
 $secret = 'your_secret_key';
