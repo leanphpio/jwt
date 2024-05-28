@@ -2,7 +2,7 @@
 
 require 'LeanJWT.php';
 
-use leanphp\jwt\LeanJWT;
+use leanphpio\jwt\LeanJWT;
 
 // Initialize the JWT handler with a secret key
 $secret = 'your_secret_key';
