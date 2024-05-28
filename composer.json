@@ -1,5 +1,5 @@
 {
-    "name": "leanphp/php-jwt",
+    "name": "php/php-jwt",
     "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Conforms to the current spec.",
     "homepage": "https://github.com/leanphpio/php-jwt",
     "keywords": [
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Leanphp\\Jwt\\": "src/"
+            "Leanphpio\\Jwt\\": "src/"
         }
     },
     "require-dev": {
