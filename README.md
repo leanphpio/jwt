@@ -6,7 +6,7 @@ LeanJWT is a simple library to encode and decode JSON Web Tokens (JWT) in PHP. T
 You can install this package via Composer:
 
 ```bash
-composer require leanphp/php-jwt
+composer install leanphpio/jwt
 ```
 
 ## Usage
